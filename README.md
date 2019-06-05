@@ -6,6 +6,7 @@ Exposes web server on port 8080.
 See Dockerfile for more details.
 
 
+How to build and run:
 git clone https://github.com/mariosevic/SimpleNodeApp.git
 
 cd SimpleNodeApp
