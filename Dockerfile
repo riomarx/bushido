@@ -1,5 +1,4 @@
-# Test Node Web App
-# Linux x64
+# Test Node Web App x64
 FROM alpine
 
 LABEL maintainer="sevic3@gmail.com"
