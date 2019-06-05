@@ -7,12 +7,13 @@ See Dockerfile for more details.
 
 
 How to build and run:
-git clone https://github.com/mariosevic/SimpleNodeApp.git
 
-cd SimpleNodeApp
+$cd ~/ ; git clone https://github.com/mariosevic/SimpleNodeApp.git
 
-docker image build -t app:latest .
+$cd SimpleNodeApp
 
-docker container run -d --name App1 -p 8080:8080 app:latest
+$docker image build -t app:latest .
 
-curl localhost:8080
+$docker container run -d --name App1 -p 8080:8080 app:latest
+
+$curl localhost:8080
