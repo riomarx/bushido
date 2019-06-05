@@ -5,10 +5,11 @@ Exposes web server on port 8080.
 
 See Dockerfile for more details.
 
+____________________________________________________________
 
 How to build and run:
 
-$cd ~/ ; git clone https://github.com/mariosevic/SimpleNodeApp.git
+$git clone https://github.com/mariosevic/SimpleNodeApp.git
 
 $cd SimpleNodeApp
 
