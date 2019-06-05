@@ -1,7 +1,7 @@
 {
   "name": "hello-mario",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "Demo app",
   "main": "app.js",
   "author": "Mario Sevic <sevic3@gmail.com>",
