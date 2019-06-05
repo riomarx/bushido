@@ -1,6 +1,6 @@
 
-This is a quick node.js app for the purposes of demonstrating how to Dockerize/containerize a simple app.
+Quick node.js app demonstrating how to dockerize a simple app.
 
-Exposes web server on port 8080 as per ./app.js
+Exposes web server on port 8080.
 
-See Dockerfile for more details
+See Dockerfile for more details.
